@@ -19,7 +19,7 @@ import (
 	"github.com/osm/quake/proxy"
 )
 
-var version string = "1.0.0"
+var version string = "1.0.1"
 
 type app struct {
 	aliases        []string

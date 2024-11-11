@@ -1,5 +1,5 @@
 BIN ?= qwstfw
-VER ?= 1.0.0
+VER ?= 1.0.1
 
 ${BIN}: $(wildcard *.go)
 	go build -o $@
